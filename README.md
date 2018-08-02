@@ -4,7 +4,7 @@ I started with Create-React-App and tried to work my way towards the solution as
 
 For styling, I used reactstrap which is basically Bootstrap for React and I tried to showcase the different components which led to the application having a clean User Interface. This made the Header, Product and Table responsive.
 
-For the graph, I initially started with `react-chartkick` but the data became chart came out to be imprecise as it was not able to handle the final `01-02-31` incorrect date.
+For the graph, I initially started with `react-chartkick` but the chart came out to be imprecise as it was not able to handle the final `01-02-31` incorrect date.
 
 I checked more libraries and chose `react-easy-chart` because I did not have to manipulate the data much.
 
